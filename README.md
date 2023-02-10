@@ -1,4 +1,4 @@
-# PowerBI-Projects
+# PowerBI-UGC(User-generated Content)-Projects
 
 It is a PowerBI file.
 Contains 3 tables: content_table; reaction_table; reaction_type_table.
